@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.DS_Store
+*.mdf
+*.ldf
+publish/
+.vs/
