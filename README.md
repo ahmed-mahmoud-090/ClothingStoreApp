@@ -36,4 +36,4 @@ This is a complete Windows Forms application built with C# and Entity Framework.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ClothingStoreApp.git
+   git clone [https://github.com/ahmed-mahmoud-090/ClothingStoreApp.git](https://github.com/ahmed-mahmoud-090)
